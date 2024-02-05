@@ -1,6 +1,5 @@
-package ordenacao;
+package set.ordenacao;
 
-import javax.swing.*;
 import java.util.Comparator;
 import java.util.Objects;
 
